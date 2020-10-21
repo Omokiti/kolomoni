@@ -1,2 +1,2 @@
 # kolomoni
- Kolomoni website
+ A Fin-tech  website
